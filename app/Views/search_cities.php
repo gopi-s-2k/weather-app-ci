@@ -115,7 +115,7 @@
                             <div class="d-flex justify-content-start gap-3 small text-muted">
                                 <span><strong>Humidity:</strong> ${humidity}%</span>
                                 <span><strong>Wind:</strong> ${wind} m/s</span>
-                                <span><strong>Feels Like:</strong> ${feels_like} m/s</span>
+                                <span><strong>Feels Like:</strong> ${feels_like} °</span>
                             </div>
                         </div>
                     </div>
